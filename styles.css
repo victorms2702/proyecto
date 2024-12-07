@@ -1,0 +1,109 @@
+body {
+    font-family: 'Trebuchet MS',Arial, Helvetica, sans-serif;
+    background-color: papayawhip;
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+    
+}
+nav ul {
+    list-style: none;
+    background-color: #d2691e;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li a {
+    color: rgb(246, 244, 244);
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+#logogimp {
+    height: 200px;
+    border-radius: 20px;
+    width: 300px;
+}
+#album {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#album:hover {
+    color: #d2691e;
+}
+#logodeinks{
+    height: 300px;
+    width: 400px;
+}
+#ejemplosinks{
+    height: 200px;
+    width: 300px;
+}
+#albuminks {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#albuminks:hover {
+    color: #d2691e;
+}
+marquee {
+    color: rgb(190, 74, 31);
+}
+#folletovs {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#folletovs:hover {
+    color: #d2691e;
+}
+#folletoinks {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#folletoinks:hover {
+    color: #d2691e;
+}
+#go{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#go:hover{
+    color: #d2691e;
+}
+#ani{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#ani:hover{
+    color: #d2691e;
+}
+#susten{
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#susten:hover{
+    color: #d2691e;
+}
